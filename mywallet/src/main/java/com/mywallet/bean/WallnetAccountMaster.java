@@ -14,7 +14,7 @@ import javax.persistence.Table;
 @Table(name="wallnet_account_master")
 public class WallnetAccountMaster {
 
-	
+	//This will be primary key.
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)  //since this is auto doent ned to send id....
 	@Column(name="walletId")
