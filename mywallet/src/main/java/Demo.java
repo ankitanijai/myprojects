@@ -5,5 +5,6 @@ public class Demo {
 	public static void main(String ...p) {
 		Demo d=new Demo();
 		System.out.println("g");
+		System.out.println("Hi");
 	}
 	}
