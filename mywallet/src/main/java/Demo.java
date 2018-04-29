@@ -6,5 +6,7 @@ public class Demo {
 		Demo d=new Demo();
 		System.out.println("g");
 		System.out.println("Hi");
+	  	System.out.println("Remotely added");
+
 	}
 	}
